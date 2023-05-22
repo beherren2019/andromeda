@@ -1,8 +1,8 @@
 # Andromeda
-##### "Andromeda" the name of the galaxy that represents nothing about this task. It is used to search the repositories from GitHub for the moment and having the flexibility to add search functionalities from the other repositories as well.
-<br/>
+#### "Andromeda" the name of the galaxy that represents nothing about this task. It is used to search the repositories from GitHub for the moment and having the flexibility to add search functionalities from the other repositories as well.
 
-##### Prerequisite
+
+#### Prerequisite
 - jdk 11 
 - maven
 - docker
