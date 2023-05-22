@@ -1,5 +1,15 @@
-# Andromeda
-#### "Andromeda" the name of the galaxy that represents nothing about this task. It is used to search the repositories from GitHub for the moment and having the flexibility to add search functionalities from the other repositories as well.
+## Andromeda
+#### "Andromeda" the name of the galaxy that represents nothing about this task. 
+
+#### Having Store, Product, Items relationship apis.
+    
+ - ProductController
+ - StoreController
+ - StoreItemController
+    
+#### Also, 
+
+- It is used to search the repositories from GitHub (VersionControlRepositoryController) for the moment and having the flexibility to add search functionalities from the other repositories as well.
 
 
 #### Prerequisite
