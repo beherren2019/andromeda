@@ -1,0 +1,18 @@
+version: "1.0"
+
+services:
+  db:
+    image: postgres:alpine
+    container_name: postgres_db
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: andromeda
+      PGDATA: /tmp
+    volumes:
+      - data:/var/lib/postgresql/data
+
+volumes:
+  data:
+    external: false
