@@ -8,10 +8,10 @@
 - docker
 - make sure port 8085 is not used. If so, help yourself to change the port number(server.port=xxxx) in application.properties
 
-####swagger 
+#### swagger 
 http://localhost:8085/api/swagger-ui.html
 
-####up docker-compose
+#### up docker-compose
 - docker-compose up <br/>
   This creates the postgres db `postgres` username: `postgres` password: `password`
 
